@@ -10,9 +10,6 @@
 
 - 🤖 Currently Working On [Everything](https://github.com/BetchesHerself) / I Do A Bunch Of Other Stuff Such As : **Websites/templates, Bots In General**
 
-- 😍 Employee At [**@BrainStormGames**](https://github.com/BrainstormGames)
-
-- 👀 Sometimes I Use **Vue.Js And React Etc..**
 
 - 🧠 Currently Learning **Everything**
 
